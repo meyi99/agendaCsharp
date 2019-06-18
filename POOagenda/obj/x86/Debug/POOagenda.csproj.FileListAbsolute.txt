@@ -1,0 +1,6 @@
+/home/meyi/Projects/POOagenda/POOagenda/bin/Debug/POOagenda.exe
+/home/meyi/Projects/POOagenda/POOagenda/bin/Debug/POOagenda.pdb
+/home/meyi/Projects/POOagenda/POOagenda/obj/x86/Debug/POOagenda.csprojAssemblyReference.cache
+/home/meyi/Projects/POOagenda/POOagenda/obj/x86/Debug/POOagenda.csproj.CoreCompileInputs.cache
+/home/meyi/Projects/POOagenda/POOagenda/obj/x86/Debug/POOagenda.exe
+/home/meyi/Projects/POOagenda/POOagenda/obj/x86/Debug/POOagenda.pdb
